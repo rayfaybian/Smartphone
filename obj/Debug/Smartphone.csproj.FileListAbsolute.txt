@@ -1,0 +1,10 @@
+C:\Coding\C#\Smartphone\bin\Debug\Smartphone.exe.config
+C:\Coding\C#\Smartphone\bin\Debug\Smartphone.exe
+C:\Coding\C#\Smartphone\bin\Debug\Smartphone.pdb
+C:\Coding\C#\Smartphone\obj\Debug\Smartphone.csprojAssemblyReference.cache
+C:\Coding\C#\Smartphone\obj\Debug\Smartphone.Form1.resources
+C:\Coding\C#\Smartphone\obj\Debug\Smartphone.Properties.Resources.resources
+C:\Coding\C#\Smartphone\obj\Debug\Smartphone.csproj.GenerateResource.cache
+C:\Coding\C#\Smartphone\obj\Debug\Smartphone.csproj.CoreCompileInputs.cache
+C:\Coding\C#\Smartphone\obj\Debug\Smartphone.exe
+C:\Coding\C#\Smartphone\obj\Debug\Smartphone.pdb
